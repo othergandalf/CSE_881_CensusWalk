@@ -5,6 +5,6 @@ I might recommending a preprocessing file ProcesssingData.ipynb and having that 
 
 Included:
 
--Jupyter Notebook where data collection (and some processing) occur
+- Jupyter Notebook where data collection (and some processing) occur
 - Walkscore dataset
 - Census dataset 

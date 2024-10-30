@@ -7,4 +7,5 @@ Included:
 
 - Jupyter Notebook where data collection (and some processing) occur
 - Walkscore dataset
-- Census dataset 
+- Census dataset
+- full (joined) dataset
